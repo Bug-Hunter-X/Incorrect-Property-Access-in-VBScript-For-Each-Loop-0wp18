@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript when using For Each loops to iterate over collections and access object properties.  The original code incorrectly attempts to access object properties using the dot operator within the loop condition which leads to a runtime error. The solution shows the correct way to access object properties within the loop.
